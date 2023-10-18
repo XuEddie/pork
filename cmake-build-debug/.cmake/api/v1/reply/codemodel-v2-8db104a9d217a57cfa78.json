@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.26"
+						"string" : "3.24"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "pork_vision::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-pork_vision-Debug-bf65cca50a52aa598bf2.json",
+					"jsonFile" : "target-pork_vision-Debug-a38a34e5c2944d4a70a5.json",
 					"name" : "pork_vision",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/21525/Desktop/pork/pork/cmake-build-debug",
-		"source" : "C:/Users/21525/Desktop/pork/pork"
+		"build" : "C:/Users/lenovo/Desktop/pork/cmake-build-debug",
+		"source" : "C:/Users/lenovo/Desktop/pork"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 4
 	}
 }

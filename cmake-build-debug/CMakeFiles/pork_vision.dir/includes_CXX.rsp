@@ -1,1 +1,1 @@
--IC:/Users/21525/Desktop/pork/pork/UI_part -IC:/Users/21525/Desktop/pork/pork/vision_parts -IC:/Users/21525/Desktop/pork/pork/AI_part -isystem D:/OpenCV/opencv/mingw_build/install/include
+-IC:/Users/lenovo/Desktop/pork/UI_part -IC:/Users/lenovo/Desktop/pork/vision_parts -IC:/Users/lenovo/Desktop/pork/AI_part -isystem D:/OpenCV/opencv/mingw_build/install/include

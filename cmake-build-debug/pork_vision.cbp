@@ -8,159 +8,159 @@
 		<Option virtualFolders="CMake Files\;CMake Files\OpenCV\;CMake Files\OpenCV\opencv\;CMake Files\OpenCV\opencv\mingw_build\;CMake Files\OpenCV\opencv\mingw_build\install\;CMake Files\OpenCV\opencv\mingw_build\install\x64\;CMake Files\OpenCV\opencv\mingw_build\install\x64\mingw\;CMake Files\OpenCV\opencv\mingw_build\install\x64\mingw\lib\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/21525/Desktop/pork/pork/cmake-build-debug"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/pork/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="pork_vision">
-				<Option output="C:/Users/21525/Desktop/pork/pork/cmake-build-debug/pork_vision.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/21525/Desktop/pork/pork/cmake-build-debug"/>
+				<Option output="C:/Users/lenovo/Desktop/pork/cmake-build-debug/pork_vision.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/pork/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/21525/Desktop/pork/pork/UI_part"/>
-					<Add directory="C:/Users/21525/Desktop/pork/pork/vision_parts"/>
-					<Add directory="C:/Users/21525/Desktop/pork/pork/AI_part"/>
+					<Add directory="C:/Users/lenovo/Desktop/pork/UI_part"/>
+					<Add directory="C:/Users/lenovo/Desktop/pork/vision_parts"/>
+					<Add directory="C:/Users/lenovo/Desktop/pork/AI_part"/>
 					<Add directory="D:/OpenCV/opencv/mingw_build/install/include"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 pork_vision"/>
-					<CompileFile command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 pork_vision"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="pork_vision/fast">
-				<Option output="C:/Users/21525/Desktop/pork/pork/cmake-build-debug/pork_vision.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/21525/Desktop/pork/pork/cmake-build-debug"/>
+				<Option output="C:/Users/lenovo/Desktop/pork/cmake-build-debug/pork_vision.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/pork/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/21525/Desktop/pork/pork/UI_part"/>
-					<Add directory="C:/Users/21525/Desktop/pork/pork/vision_parts"/>
-					<Add directory="C:/Users/21525/Desktop/pork/pork/AI_part"/>
+					<Add directory="C:/Users/lenovo/Desktop/pork/UI_part"/>
+					<Add directory="C:/Users/lenovo/Desktop/pork/vision_parts"/>
+					<Add directory="C:/Users/lenovo/Desktop/pork/AI_part"/>
 					<Add directory="D:/OpenCV/opencv/mingw_build/install/include"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
-					<Add directory="D:/surroundings/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 pork_vision/fast"/>
-					<CompileFile command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 pork_vision/fast"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/21525/Desktop/pork/pork/cmake-build-debug"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/pork/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/21525/Desktop/pork/pork/cmake-build-debug"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/pork/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/surroundings/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/21525/Desktop/pork/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/pork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/AI_part/AI_part_VirtualBase.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/AI_part/AI_part_VirtualBase.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/AI_part/AI_part_VirtualBase.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/AI_part/AI_part_VirtualBase.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/AI_part/AL_part.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/AI_part/AL_part.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/AI_part/AL_part.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/AI_part/AL_part.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/UI_part/Mat_list.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/UI_part/Mat_list.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/UI_part/Mat_list.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/UI_part/Mat_list.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/UI_part/UI_VirtualBase.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/UI_part/UI_VirtualBase.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/UI_part/UI_VirtualBase.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/UI_part/UI_VirtualBase.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/UI_part/UI_widgets.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/UI_part/UI_widgets.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/UI_part/UI_widgets.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/UI_part/UI_widgets.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/main.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/main.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/recognize_part.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/recognize_part.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/recognize_part.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/recognize_part.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/recognize_part_VirtualBase.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/recognize_part_VirtualBase.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/recognize_part_VirtualBase.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/recognize_part_VirtualBase.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/study_part.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/study_part.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/study_part.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/study_part.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/study_part_VirtualBase.cpp">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/study_part_VirtualBase.cpp">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/vision_parts/study_part_VirtualBase.h">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/vision_parts/study_part_VirtualBase.h">
 			<Option target="pork_vision"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/CMakeLists.txt">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/OpenCV/opencv/mingw_build/install/OpenCVConfig-version.cmake">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/OpenCV/opencv/mingw_build/install/OpenCVConfig-version.cmake">
 			<Option virtualFolder="CMake Files\OpenCV\opencv\mingw_build\install\"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/OpenCV/opencv/mingw_build/install/OpenCVConfig.cmake">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/OpenCV/opencv/mingw_build/install/OpenCVConfig.cmake">
 			<Option virtualFolder="CMake Files\OpenCV\opencv\mingw_build\install\"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/OpenCV/opencv/mingw_build/install/x64/mingw/lib/OpenCVConfig.cmake">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/OpenCV/opencv/mingw_build/install/x64/mingw/lib/OpenCVConfig.cmake">
 			<Option virtualFolder="CMake Files\OpenCV\opencv\mingw_build\install\x64\mingw\lib\"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/OpenCV/opencv/mingw_build/install/x64/mingw/lib/OpenCVModules-release.cmake">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/OpenCV/opencv/mingw_build/install/x64/mingw/lib/OpenCVModules-release.cmake">
 			<Option virtualFolder="CMake Files\OpenCV\opencv\mingw_build\install\x64\mingw\lib\"/>
 		</Unit>
-		<Unit filename="C:/Users/21525/Desktop/pork/pork/OpenCV/opencv/mingw_build/install/x64/mingw/lib/OpenCVModules.cmake">
+		<Unit filename="C:/Users/lenovo/Desktop/pork/OpenCV/opencv/mingw_build/install/x64/mingw/lib/OpenCVModules.cmake">
 			<Option virtualFolder="CMake Files\OpenCV\opencv\mingw_build\install\x64\mingw\lib\"/>
 		</Unit>
 	</Project>
