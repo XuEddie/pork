@@ -53,10 +53,10 @@ RM = D:\cmake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\21525\Desktop\pork_vision
+CMAKE_SOURCE_DIR = C:\Users\21525\Desktop\pork\pork
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\21525\Desktop\pork_vision\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\21525\Desktop\pork\pork\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/pork_vision.dir/clean
 CMakeFiles/pork_vision.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pork_vision.dir\build.make CMakeFiles/pork_vision.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pork_vision.dir\build.make CMakeFiles/pork_vision.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\21525\Desktop\pork_vision\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target pork_vision"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\21525\Desktop\pork\pork\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target pork_vision"
 .PHONY : CMakeFiles/pork_vision.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pork_vision.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\21525\Desktop\pork_vision\cmake-build-debug\CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\21525\Desktop\pork\pork\cmake-build-debug\CMakeFiles 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pork_vision.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\21525\Desktop\pork_vision\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\21525\Desktop\pork\pork\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pork_vision.dir/rule
 
 # Convenience name for target.
